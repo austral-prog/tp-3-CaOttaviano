@@ -1,6 +1,6 @@
 def check_vowels():
 	nombre = input()
-	print("Contiene a: " + str("a" not in nombre))
+	print("Contiene a: " + str("a" in nombre))
 	print("Contiene e: " + str("e" in nombre))
 	print("Contiene i: " + str("i" in nombre))
 	print("Contiene o: " + str("o" in nombre))
