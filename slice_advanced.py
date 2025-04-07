@@ -1,5 +1,5 @@
 def slice_advanced():
-    txt = input ()
+	txt = input ()
 	print (str(txt)[4::-2])
     # Código a implementar utilizando input.
 # Para verificar este ejercicio ejecutar el comando
